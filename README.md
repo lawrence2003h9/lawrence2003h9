@@ -1,16 +1,19 @@
-## Hi there 👋
+# Welcome to my GitHub 🎉
 
-<!--
-**lawrence2003h9/lawrence2003h9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **lawrence2003h9**, a aspiring 10x engineer.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Reach me through GitHub
+- 🎨 Code is poetry
+- 🐛 Bug hunter by night
+- 🎯 Goal: ship something useful every week
+- 📚 Reading the source is the best documentation
+
+## Tech
+
+`WebSocket` `Dart` `Ansible` `Swift`
+
+---
+
+_Debugging is fun._
